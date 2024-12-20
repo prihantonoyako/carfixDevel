@@ -4,57 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "category": "fleet",
-        "title": "CARfix Fleet BSD",
-        "addr": "Lengkong Gudang Tim., Kec. Serpong, Kota Tangerang Selatan, Banten",
-        "addr:zip": "0000",
-        "gmaps": "https://maps.app.goo.gl/F2WHbSiVtnHXRg9H9"
-      },
-      "geometry": {
-        "coordinates": [
-          106.68464869359347,
-          -6.294503060358745
-        ],
-        "type": "Point"
-      }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "category": "fleet",
-            "title": "CARfix Fleet Cinangka",
-            "addr": "JPFX+34W Kedaung, Kota Depok, Jawa Barat",
-            "addr:zip": "0000",
-            "gmaps": "https://maps.app.goo.gl/PpQfxNfSag62QmNo9"
-        },
-        "geometry": {
-            "coordinates": [
-            106.74781625071128,
-            -6.377237173758767
-            ],
-            "type": "Point"
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "category": "fleet",
-            "title": "CARfix Fleet Denpasar",
-            "addr": "Jl. Gn. Galunggung No.5, Ubung Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali",
-            "addr:zip": "80116",
-            "gmaps": "https://maps.app.goo.gl/9MAW4CoG7u3tfxAC6"
-        },
-        "geometry": {
-            "coordinates": [
-                115.19356321037601,
-                -8.61764248304617
-            ],
-            "type": "Point"
-        }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "category": "generic",
         "title": "CARfix BANDUNG ANTAPANI",
         "addr": "Jl. Terusan Jakarta No.16, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat",
