@@ -17,19 +17,229 @@
       }
     },
     {
-        "type": "Feature",
-        "properties": {
-          "title": "CARfix Kendal",
-          "addr": "Jl. Raya Soekarno-Hatta No.100, Bugangin, Kec. Kendal, Kabupaten Kendal, Jawa Tengah",
-          "addr:zip": "51319"
-        },
-        "geometry": {
-          "coordinates": [
-            110.18370322864966,
-            -6.921635227578132
-          ],
-          "type": "Point"
-        }
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Kendal",
+        "addr": "Jl. Raya Soekarno-Hatta No.100, Bugangin, Kec. Kendal, Kabupaten Kendal, Jawa Tengah",
+        "addr:zip": "51319"
+      },
+      "geometry": {
+        "coordinates": [
+          110.18370322864966,
+          -6.921635227578132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Pekalongan",
+        "addr": "Sokorejo, Kec. Pekalongan Timur, Kota Pekalongan, Jawa Tengah",
+        "addr:zip": "0000"
+      },
+      "geometry": {
+        "coordinates": [
+          109.68697637510608,
+          -6.902679054670642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Osamaliki Salatiga",
+        "addr": "Jl. Osamaliki No.66, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah",
+        "addr:zip": "50724"
+      },
+      "geometry": {
+        "coordinates": [
+          110.49772684414143,
+          -7.334907621056866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Majapahit Semarang",
+        "addr": "Jl. Brigjen Sudiarto No.426, Palebon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50192"
+      },
+      "geometry": {
+        "coordinates": [
+          110.47013600571218,
+          -7.010062941464554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Ngaliyan Semarang",
+        "addr": "Jl. Raya Moch. Ichsan No.47, Bringin, Kec. Ngaliyan, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50189"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33749223962039,
+          -7.009899677177856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Puspowarno Semarang",
+        "addr": "Jl. Puspowarno Tengah VII No.11, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50143"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39320779956226,
+          -6.983901196403784
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Setiabudi Semarang",
+        "addr": "Jl. Setia Budi No.229, Srondol Kulon, Kec. Banyumanik, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50263"
+      },
+      "geometry": {
+        "coordinates": [
+          110.41310783283689,
+          -7.061866197365255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Tugu Semarang",
+        "addr": "Jl. Jend. Urip Sumoharjo, RT.03/RW.03, Mangunharjo, Kec. Tugu, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50244"
+      },
+      "geometry": {
+        "coordinates": [
+          110.30172757053414,
+          -6.973327192121392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Tugu Semarang",
+        "addr": "Jl. Jend. Urip Sumoharjo, RT.03/RW.03, Mangunharjo, Kec. Tugu, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50244"
+      },
+      "geometry": {
+        "coordinates": [
+          110.30172757053414,
+          -6.973327192121392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Tugu Semarang",
+        "addr": "Jl. Jend. Urip Sumoharjo, RT.03/RW.03, Mangunharjo, Kec. Tugu, Kota Semarang, Jawa Tengah",
+        "addr:zip": "50244"
+      },
+      "geometry": {
+        "coordinates": [
+          110.30172757053414,
+          -6.973327192121392
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Colomadu",
+        "addr": "Jl. Adi Sucipto No.573, Blukukan Dua, Blulukan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah",
+        "addr:zip": "57174"
+      },
+      "geometry": {
+        "coordinates": [
+          110.76417113074992,
+          -7.540352052153979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Gading Solo",
+        "addr": "Jl. Brigjen Sudiarto No.221, Joyotakan, Kec. Serengan, Kota Surakarta, Jawa Tengah",
+        "addr:zip": "57154"
+      },
+      "geometry": {
+        "coordinates": [
+          110.82151183252252,
+          -7.594821806608912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Bantul Yogyakarta",
+        "addr": "Jl. Ring Road Selatan, Jadan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+        "addr:zip": "55184"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32454793789981,
+          -7.821715090614713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Jakal",
+        "addr": "Jl. Kaliurang No.KM. 11, Gadingan, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "addr:zip": "55581"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40714990485885,
+          -7.714304449441484
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix Magelang Raya",
+        "addr": "Kutu Asem, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+        "addr:zip": "55284"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36129887128405,
+          -7.764585456015628
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
