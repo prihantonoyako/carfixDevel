@@ -6,7 +6,8 @@
       "properties": {
         "title": "CARfix BANDUNG ANTAPANI",
         "addr": "Jl. Terusan Jakarta No.16, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat",
-        "addr:zip": "40281"
+        "addr:zip": "40281",
+        "gmaps": "https://maps.app.goo.gl/rRSiMjzFZe1qQoDh7"
       },
       "geometry": {
         "coordinates": [
@@ -21,7 +22,8 @@
       "properties": {
         "title": "CARfix Kendal",
         "addr": "Jl. Raya Soekarno-Hatta No.100, Bugangin, Kec. Kendal, Kabupaten Kendal, Jawa Tengah",
-        "addr:zip": "51319"
+        "addr:zip": "51319",
+        "gmaps": "https://maps.app.goo.gl/pZi2sVsxXubTpwbW7"
       },
       "geometry": {
         "coordinates": [
@@ -36,7 +38,8 @@
       "properties": {
         "title": "CARfix Pekalongan",
         "addr": "Sokorejo, Kec. Pekalongan Timur, Kota Pekalongan, Jawa Tengah",
-        "addr:zip": "0000"
+        "addr:zip": "0000",
+        "gmaps": "https://maps.app.goo.gl/39xuQU54rpPr6nHn9"
       },
       "geometry": {
         "coordinates": [
@@ -51,7 +54,8 @@
       "properties": {
         "title": "CARfix Osamaliki Salatiga",
         "addr": "Jl. Osamaliki No.66, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah",
-        "addr:zip": "50724"
+        "addr:zip": "50724",
+        "gmaps": "https://maps.app.goo.gl/36XsU79JQTeEbmZq7"
       },
       "geometry": {
         "coordinates": [
@@ -66,7 +70,8 @@
       "properties": {
         "title": "CARfix Majapahit Semarang",
         "addr": "Jl. Brigjen Sudiarto No.426, Palebon, Kec. Pedurungan, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50192"
+        "addr:zip": "50192",
+        "gmaps": "https://maps.app.goo.gl/mS2Qk2onWdAAx9i37"
       },
       "geometry": {
         "coordinates": [
@@ -81,7 +86,8 @@
       "properties": {
         "title": "CARfix Ngaliyan Semarang",
         "addr": "Jl. Raya Moch. Ichsan No.47, Bringin, Kec. Ngaliyan, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50189"
+        "addr:zip": "50189",
+        "gmaps": "https://maps.app.goo.gl/CpZQ7oX4mMg7qP689"
       },
       "geometry": {
         "coordinates": [
@@ -96,7 +102,8 @@
       "properties": {
         "title": "CARfix Puspowarno Semarang",
         "addr": "Jl. Puspowarno Tengah VII No.11, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50143"
+        "addr:zip": "50143",
+        "gmaps": "https://maps.app.goo.gl/K6haHEiwhokwqRWA9"
       },
       "geometry": {
         "coordinates": [
@@ -111,7 +118,8 @@
       "properties": {
         "title": "CARfix Setiabudi Semarang",
         "addr": "Jl. Setia Budi No.229, Srondol Kulon, Kec. Banyumanik, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50263"
+        "addr:zip": "50263",
+        "gmaps": "https://maps.app.goo.gl/nCFqCMxRwfY32P9z7"
       },
       "geometry": {
         "coordinates": [
@@ -126,7 +134,8 @@
       "properties": {
         "title": "CARfix Tugu Semarang",
         "addr": "Jl. Jend. Urip Sumoharjo, RT.03/RW.03, Mangunharjo, Kec. Tugu, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50244"
+        "addr:zip": "50244",
+        "gmaps": "https://maps.app.goo.gl/RjGEY5w2UCJsJf8v7"
       },
       "geometry": {
         "coordinates": [
@@ -141,7 +150,8 @@
       "properties": {
         "title": "CARfix Colomadu",
         "addr": "Jl. Adi Sucipto No.573, Blukukan Dua, Blulukan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah",
-        "addr:zip": "57174"
+        "addr:zip": "57174",
+        "gmaps": "https://maps.app.goo.gl/MYvq8CFamKJyACxz5"
       },
       "geometry": {
         "coordinates": [
@@ -156,7 +166,8 @@
       "properties": {
         "title": "CARfix Gading Solo",
         "addr": "Jl. Brigjen Sudiarto No.221, Joyotakan, Kec. Serengan, Kota Surakarta, Jawa Tengah",
-        "addr:zip": "57154"
+        "addr:zip": "57154",
+        "gmaps": "https://maps.app.goo.gl/EE5xwKNkb7EBcYgB7"
       },
       "geometry": {
         "coordinates": [
@@ -171,7 +182,8 @@
       "properties": {
         "title": "CARfix Bantul Yogyakarta",
         "addr": "Jl. Ring Road Selatan, Jadan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
-        "addr:zip": "55184"
+        "addr:zip": "55184",
+        "gmaps": "https://maps.app.goo.gl/bw27dhkg7NttraB29"
       },
       "geometry": {
         "coordinates": [
@@ -186,7 +198,8 @@
       "properties": {
         "title": "CARfix Jakal",
         "addr": "Jl. Kaliurang No.KM. 11, Gadingan, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "addr:zip": "55581"
+        "addr:zip": "55581",
+        "gmaps": "https://maps.app.goo.gl/Vn3ZGvw8sTBxRBmo7"
       },
       "geometry": {
         "coordinates": [
@@ -201,7 +214,8 @@
       "properties": {
         "title": "CARfix Magelang Raya",
         "addr": "Kutu Asem, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-        "addr:zip": "55284"
+        "addr:zip": "55284",
+        "gmaps": "https://maps.app.goo.gl/2k6J4V4eU7nRBaqb7"
       },
       "geometry": {
         "coordinates": [
