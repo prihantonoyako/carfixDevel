@@ -139,36 +139,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CARfix Tugu Semarang",
-        "addr": "Jl. Jend. Urip Sumoharjo, RT.03/RW.03, Mangunharjo, Kec. Tugu, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50244"
-      },
-      "geometry": {
-        "coordinates": [
-          110.30172757053414,
-          -6.973327192121392
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CARfix Tugu Semarang",
-        "addr": "Jl. Jend. Urip Sumoharjo, RT.03/RW.03, Mangunharjo, Kec. Tugu, Kota Semarang, Jawa Tengah",
-        "addr:zip": "50244"
-      },
-      "geometry": {
-        "coordinates": [
-          110.30172757053414,
-          -6.973327192121392
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "CARfix Colomadu",
         "addr": "Jl. Adi Sucipto No.573, Blukukan Dua, Blulukan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah",
         "addr:zip": "57174"
