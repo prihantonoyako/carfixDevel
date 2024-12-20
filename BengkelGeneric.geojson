@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CARfix BANDUNG ANTAPANI",
+        "addr": "Jl. Terusan Jakarta No.16, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat",
+        "addr:zip": "40281"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.913475927517138,
+          107.6466507885862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "title": "CARfix Kendal",
+          "addr": "Jl. Raya Soekarno-Hatta No.100, Bugangin, Kec. Kendal, Kabupaten Kendal, Jawa Tengah",
+          "addr:zip": "51319"
+        },
+        "geometry": {
+          "coordinates": [
+            -6.921635227578132,
+            110.18370322864966
+          ],
+          "type": "Point"
+        }
+    }
+  ]
+}
